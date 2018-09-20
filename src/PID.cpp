@@ -3,7 +3,10 @@
 using namespace std;
 
 /*
-* TODO: Complete the PID class.
+* PID Class
+* Kp: Proportional constant
+* Kd: Derivative constant
+* Ki: Integral constant
 */
 
 PID::PID() {}
