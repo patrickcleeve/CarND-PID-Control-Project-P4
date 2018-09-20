@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/Users/patrickcleeve/Udacity/Term-2/CarND-PID-Control-Project/src/PID.cpp
+PID.h
+/Users/patrickcleeve/Udacity/Term-2/CarND-PID-Control-Project/src/PID.h
+
 /Users/patrickcleeve/Udacity/Term-2/CarND-PID-Control-Project/src/PID.h
 
 /Users/patrickcleeve/Udacity/Term-2/CarND-PID-Control-Project/src/json.hpp
